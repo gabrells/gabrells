@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello, outsiders!! ✌
+
+<p>Ele/dele
+
+ 🌱 I’m currently learning;
+- HTML5
+- CSS3
+- JavaScript
+- React
 
 <!--
 **gabrells/gabrells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
