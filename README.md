@@ -1,6 +1,6 @@
 ### Hello, outsiders!! ✌
 
-<p>Ele/dele
+<p>He/His
 
  🌱 I’m currently learning;
 - HTML5
